@@ -8,7 +8,8 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Tsubu Cafe",
-        "address": " gate 6, swanston st, building 1888 university of melbourne 3010"
+        "address": " gate 6, swanston st, building 1888 university of melbourne 3010",
+        "review": "The original resistance hangout, particularly on Wednesdays at 3 pm (for Hacky Hour) "
       },
       "geometry": {
         "type": "Point",

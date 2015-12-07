@@ -29,7 +29,7 @@ try:
 except OSError:
     pass
 
-infiles = glob.glob("*.geojson")
+infiles = glob.glob("geojsons/*.geojson")
 
 outjson = dict(type='FeatureCollection', features=[])
 

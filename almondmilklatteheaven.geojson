@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name ": "7 seeds specialty coffee",
+        "review ": "5 stars",
+        "name": "Rux"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9597179889679,
+          -37.80081546127202
+        ]
+      }
+    }
+  ]
+}
